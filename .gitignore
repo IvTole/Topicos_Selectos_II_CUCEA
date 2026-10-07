@@ -9,6 +9,10 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+08_pytorch_cnn/mnist_numbers_data
+08_pytorch_cnn/PyTorchModels
+
 # Distribution / packaging
 .Python
 build/
