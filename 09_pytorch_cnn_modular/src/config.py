@@ -1,0 +1,13 @@
+# Variables utilizadas en el flujo
+
+# DATA PATHS
+DATA_PATH = "data/"
+
+# RANDOM SEED
+SEED = 42
+
+# TRAINING
+EPOCHS = 2
+BATCH_SIZE = 32
+LEARNING_RATE = 0.03
+HIDDEN_UNITS = 20
